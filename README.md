@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview
 This is a fictitious eCommerce clothing site dataset. 
 
@@ -82,3 +83,4 @@ This is a fictitious eCommerce clothing site dataset.
 
 ---
 
+=======
